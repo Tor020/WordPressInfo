@@ -1,0 +1,56 @@
+body {
+  font-size: 16px;
+}
+.container {
+  margin-left: 2em;
+  margin: auto;
+  width: 100%;
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section {
+  padding-bottom: .5em;
+  padding-top: .5em;
+}
+
+.cent {
+  justify-content: center;
+}
+
+.listhead {
+  margin-top: 1em;
+  font-size: 2rem;
+}
+
+.standalonelh {
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.subp {
+  margin-left: 8px;
+  margin-top: 2px;
+  max-width: 60%;
+}
+
+.cited {
+  margin-top: 5em;
+}
+
+ul {
+  list-style-type: circle;
+  margin-left: 2.5em;
+}
+
+.title {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.subtitle {
+  margin-top: 1em;
+}
